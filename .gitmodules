@@ -1,0 +1,9 @@
+[submodule "external/instant_ngp"]
+	path = external/instant-ngp
+	url = https://github.com/NVlabs/instant-ngp
+[submodule "external/stable_diffusion"]
+	path = external/stable_diffusion
+	url = https://github.com/CompVis/stable-diffusion  
+[submodule "external/stable_dreamfusion"]
+	path = external/stable_dreamfusion
+	url = https://github.com/XavierXiao/Dreambooth-Stable-Diffusion
