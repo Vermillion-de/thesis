@@ -1,0 +1,6 @@
+configargparse
+numpy 
+imageio 
+opencv_python 
+tqdm
+torch==1.12.1
